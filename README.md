@@ -111,11 +111,11 @@ Contributed to backend development and database architecture as part of a collab
 
 <div align="center">
 
-![Alwaleed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwalid570&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Alwaleed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alwaleed-Alghawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwalid570&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaleed-Alghawi&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alwalid570&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Alwaleed-Alghawi&theme=tokyonight&hide_border=true)
 
 </div>
 
