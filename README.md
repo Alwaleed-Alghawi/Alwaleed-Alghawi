@@ -11,7 +11,7 @@
 
 ### `< Software Engineer />` · Adam, Al Dakhiliyah, Oman 🇴🇲
 
-[![Gmail](https://img.shields.io/badge/Gmail-alwalid570%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwalid570@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-alwaleed.alghawii%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwaleed.alghawii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-%2B96898115351-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+96898115351)
 
